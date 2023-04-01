@@ -1,7 +1,7 @@
-#*creada en el curso de alura de Front end.*
+# *creada en el curso de alura de Front end.*
 
-##**propiedades aplicadas: FLEXBOX**
+## **propiedades aplicadas: FLEXBOX**
 
-###Podes Acceder aL proyecto aqui:
+### Podes Acceder aL proyecto aqui:
 
 [ver](https://https://cursos-alura-001.netlify.app/)
